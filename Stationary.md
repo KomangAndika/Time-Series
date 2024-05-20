@@ -6,7 +6,7 @@ The condition need to be met if a time series is stationary:
 - No seasonality
 
 Example 1:
-![[Pict/Stationary3.png]]
+![](Pict/Stationary3.png)
 - The mean is constant
 - There's no seasonality (no periodic overtime that's predictable)
 - But the standard deviation is not constant as we can see the volatility at the start, very high but it lower as the time goes meaning the std is not constant.

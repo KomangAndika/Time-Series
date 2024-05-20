@@ -5,20 +5,20 @@ The condition need to be met if a time series is stationary:
 - Std is constant
 - No seasonality
 
-Example 1:
-![](Pict/Stationary3.png)
+Example 1: <br>
+![](Pict/Stationary1.png)
 - The mean is constant
 - There's no seasonality (no periodic overtime that's predictable)
 - But the standard deviation is not constant as we can see the volatility at the start, very high but it lower as the time goes meaning the std is not constant.
 
-Example 2:
-![[Pasted image 20240520161918.png]]
+Example 2: <br>
+![](Pict/Stationary2.png)
 - The standard deviation is constant
 - No seasonality
 - But the issue is mean is changing
 
-Example 3:
-![[Pasted image 20240520162037.png]]
+Example 3: <br>
+![](Pict/Stationary3.png)
 - Std and mean constant
 - Seasonality there's
 
